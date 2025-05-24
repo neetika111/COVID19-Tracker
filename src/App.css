@@ -11,6 +11,7 @@ body {
   justify-content: space-evenly;
   background-color: #f5f6fa;
   padding: 20px;
+  color: #fc3c3c;
 }
 
 .app__dropdown {
